@@ -1,4 +1,7 @@
 # Lane-Detection
+
+Detecting lane lines on road images using Open CV library.
+
 ![](Preview01.gif)
 
 In this project, we've been working on defining simple functions to detect lane lines on the road in videos.
