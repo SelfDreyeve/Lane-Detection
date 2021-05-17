@@ -27,3 +27,5 @@ The steps we've taken to achieve the outcome in the gif above were:
 <img width="734" alt="detected_extrapolated" src="https://user-images.githubusercontent.com/83698104/118476017-4a10b980-b70d-11eb-97eb-55afa5830e1f.png">
 
 9. Defining the final pipeline that takes video, performs lane detection and outputs the images with detected lanes.
+
+The notebook in this repository doesn't require any installs in order to run. Everything needed (including the data) is already there. We used the images and videos from Udacity Lane Detection repository.
