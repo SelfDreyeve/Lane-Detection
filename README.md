@@ -3,6 +3,7 @@
 
 In this project, we've been working on defining simple functions to detect lane lines on the road in videos.
 
+
 The steps we've taken to achieve the outcome in the gif above were:
 1. Choosing the best color space to highlight the lanes as best as possible. We've chosen HLS color space.
 <img width="734" alt="hls" src="https://user-images.githubusercontent.com/83698104/118475072-17b28c80-b70c-11eb-8911-b085dcb7e131.png">
